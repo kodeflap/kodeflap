@@ -19,4 +19,3 @@ Connect through platforms
 ---
 [![](https://visitcount.itsvg.in/api?id=kodeflap&icon=4&color=1)](https://visitcount.itsvg.in)
 
-[![@kodeflap's Holopin board](https://holopin.me/kodeflap)](https://holopin.io/@kodeflap)
