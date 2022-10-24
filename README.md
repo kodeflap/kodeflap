@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🔭 I'm currently working on open-source android development<br>✍ Writes tech blogs<br> ❤ Loves contributing open-source<br>
 
 ## 🌐 Socials:
@@ -12,7 +13,5 @@ Connect through platforms
 ![](https://github-readme-stats.vercel.app/api?username=kodeflap&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kodeflap&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kodeflap&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ---
 
