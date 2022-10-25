@@ -3,7 +3,7 @@
 🔭 I'm currently working on open-source android development<br>✍ Writes tech blogs<br> ❤ Loves contributing open-source<br>
 
 ## 🌐 Socials:
-Connect through platforms
+Connect through platforms.....
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kodeflap) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/KodeFlap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@KodeFlap) 
 
