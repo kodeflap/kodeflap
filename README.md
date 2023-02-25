@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 Connect through platforms.....
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kodeflap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@KodeFlap)  [![Android Dev Library](https://img.shields.io/badge/android-%231DA1F2.svg?logo=Android&logoColor=green)](https://twitter.com/@KodeFlap](https://devlibrary.withgoogle.com/authors/kodeflap)) 
+[![Medium](https://img.shields.io/badge/Medium-%23323330.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Kodeflap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@KodeFlap) [![Android Dev Library](https://img.shields.io/badge/Android%20Dev%20Libaray-%23323330.svg?style=for-the-badge&logo=android&logoColor=green)](https://devlibrary.withgoogle.com/authors/kodeflap)
 
 
 # 💻 Tech Stack:
