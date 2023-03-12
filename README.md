@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently into android development <br> ✍ Writes tech blogs<br> ❤ Loves contributing open-source<br>
+🔭 Software developer focusing on android development who sometimes writes tech blogs
 
 ## 🌐 Socials:
 Connect through platforms.....
