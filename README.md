@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Software developer currently exploring android development and open source
+🔭 Software developer currently exploring android development and open source </br>
 📝 Also write tech blogs.
 
 ## 🌐 Socials:
