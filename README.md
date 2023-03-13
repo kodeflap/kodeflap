@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-🔭 Software developer focusing on android development who sometimes writes tech blogs
+🔭 Software developer currently exploring android development and open source
+📝 Also write tech blogs.
 
 ## 🌐 Socials:
 Connect through platforms.....
