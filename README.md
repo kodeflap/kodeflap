@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🔭 Software developer specializing in Android development. 
-✨Dedicated to exploring new tech trends and sharing knowledge through tech blogs. 
+🔭 Software developer specializing in Android development. <br>
+✨Dedicated to exploring new tech trends and sharing knowledge through tech blogs. <br>
 😀Open source enthusiast.
 
 ## 🌐 Socials:
