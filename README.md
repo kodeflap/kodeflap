@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-🔭 Software developer currently into in Android development. <br>
-✨ Dedicated to exploring new tech trends and sharing knowledge through tech blogs. <br>
-😀 Open source enthusiast <br>.
-👩‍💻 Experience in both web and mobile dev
+😎 I’m a software developer, now exploring Android Development.
+✨ I enjoy learning new tech trends and sharing my knowledge through tech blogs.
+😀 I’m passionate about open source projects.
+👩‍💻 I have experience in both web and mobile development.
 
 ## 🌐 Socials:
-Connect through platforms.....
+Want to get technical updates? Follow me on the following platforms and get the latest tech updates!
 
 [![Medium](https://img.shields.io/badge/Medium-%23323330.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Kodeflap) [![Reddit](https://img.shields.io/badge/Reddit-F54A2A.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Kodeflap/) [![Android Dev Library](https://img.shields.io/badge/Android%20Dev%20Libaray-%23323330.svg?style=for-the-badge&logo=android&logoColor=green)](https://devlibrary.withgoogle.com/authors/kodeflap)
 
