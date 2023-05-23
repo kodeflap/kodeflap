@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-😎 I’m a software developer, now exploring Android Development.
-✨ I enjoy learning new tech trends and sharing my knowledge through tech blogs.
-😀 I’m passionate about open source projects.
+😎 I’m a software developer, now exploring Android Development. <br>
+✨ I enjoy learning new tech trends and sharing my knowledge through tech blogs. <br>
+😀 I’m passionate about open source projects. <br>
 👩‍💻 I have experience in both web and mobile development.
 
 ## 🌐 Socials:
